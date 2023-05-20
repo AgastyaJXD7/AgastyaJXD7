@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AgastyaJXD7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script Libraries
+- 👋 Hey! I'm Agastya
+- 👀 I like exploring and creating Web Applications
+- 🌱 I’m Thorough with MERN Stack and currently learning React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via Gmail agastyaj.87075@gmail.com
 
